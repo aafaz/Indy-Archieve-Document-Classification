@@ -24,7 +24,9 @@ In this project, I used a deep neural network which employs a Bidirectional Long
 Data for this project was generously provided by The Polis Center of Indianapolis. It consisted of roughly 1,600 plain-text articles in JSON format. A data frame was first made available through API and transformed in Python. It was then converted into a CSV format for further processing in Pandas.
 
 The dataset contains the following features:
+
 Body: The body of the document which contained the document’s content.
+
 Category: The category to which the document belongs.
 
 Label categories were classified as one of the following: “time”, “person”, “organization”, and “geography”,
