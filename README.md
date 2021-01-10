@@ -70,7 +70,7 @@ There are labelled 300 articles in the sample data, it was split into training s
 2.	Tokenizing the words:
 Tokenizer does all the heavy lifting for us. In the articles, it will take 5,000 most common words. oov_token is to put a special value in when an unseen word is encountered.
 
-We can see that “<OOV>” is the most common token in our corpus, followed by “said”, followed by “mr” and so on.
+We can see that “< OOV >” is the most common token in our corpus, followed by “said”, followed by “mr” and so on.
 
 After tokenization, the next step is to turn those tokens into lists of sequence. The following is the 1st article in the training data that has been turned into sequences.
 
