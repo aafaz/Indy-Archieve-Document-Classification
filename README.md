@@ -28,9 +28,13 @@ Body: The body of the document which contained the document’s content.
 Category: The category to which the document belongs.
 
 Label categories were classified as one of the following: “time”, “person”, “organization”, and “geography”,
+
 Where “time” consisted of articles primarily describing years, dates, or eras. 
+
 “Person” consisted of articles describing specific or small groups of individuals. 
+
 “Organization” consisted of articles describing businesses, non-profits, not-for-profit, clubs, etc.
+
 “Geography” consisted or articles describing developments, cities, towns, and land.
 
 # Data Pre-Processing
@@ -99,8 +103,11 @@ As a result, the last Dense layer needs outputs for labels 0, 1, 2, 3, 4 althoug
 
 # Hyper-Parameter Tuning:
 Vocab_size is the maximum number of unique words considered in the model.
+
 oov_token is to put a special value in when an unseen word is encountered. This means we want <OOV> to be used for words that are not in the word_index.
+  
 Max_length is the maximum number of words (or words to pad) a document.
+  
 Embedding_dim is the length of the embedded vector which represents the document.
   
 The best combination that worked after trying different variations of hyper-parameters is:
@@ -111,9 +118,11 @@ The network described in methodologies performed with 70% accuracy. This result 
 ![](Images/Accuracy.png)
 
 Loss
+
 ![](Images/Loss.png)
 
 Classification Report
+
 ![](Images/Classification%20Report.png)
 
 # Future Improvements:
