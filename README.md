@@ -54,6 +54,7 @@ The distribution of categories in the dataset was not uniform, which resulted in
 
 2.	Finding the number of words in each document.
 Articles ranged from a few sentences to several paragraphs, with a mean length of 380 words. Percent of articles greater than 380 words.
+
 ![](Images/Average%20Number%20of%20words.png)
 
 # Load and Prepare data for Modelling:
