@@ -29,7 +29,7 @@ Category: The category to which the document belongs.
 
 Label categories were classified as one of the following: “time”, “person”, “organization”, and “geography”,
 
-Where “time” consisted of articles primarily describing years, dates, or eras. 
+Where “Time” consisted of articles primarily describing years, dates, or eras. 
 
 “Person” consisted of articles describing specific or small groups of individuals. 
 
