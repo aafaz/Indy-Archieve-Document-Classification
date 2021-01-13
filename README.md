@@ -128,7 +128,9 @@ Classification Report
 ![](Images/Classification%20Report.png)
 
 # Future Improvements:
-As an ongoing project, this model will continually improve as the data keeps coming in. It would be entirely plausible that this model is fine-tuned and replaces its results periodically as improvements become available. 
+As an ongoing project, this model will continually improve as the data keeps coming in. It would be entirely plausible that this model is fine-tuned and replaces its results periodically as improvements become available.
+
 Approaches from semi-supervised learning models may also be capable of introducing higher accuracy and fewer necessary annotations. 
+
 Neural architectures are rapidly improving and require only time to solve. Results in the field of Natural Language Processing will yield improved accuracy and results in text classification and generation for years to come. 
 
