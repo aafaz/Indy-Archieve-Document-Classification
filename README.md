@@ -1,4 +1,4 @@
-# Indy-Archieve-Document-Classification
+# Indy-Archive-Document-Classification
 ![](Images/document-classifier-photo.png)
 
 # Problem Statement
