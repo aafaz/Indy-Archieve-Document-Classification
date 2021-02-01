@@ -33,7 +33,7 @@ Label categories were classified as one of the following: “time”, “person�
 
 Where “Time” consisted of articles primarily describing years, dates, or eras. 
 
-“Person” consisted of articles describing specific or small groups of individuals. 
+“Person” consisted of articles describing specific or small groups of individuals.
 
 “Organization” consisted of articles describing businesses, non-profits, not-for-profit, clubs, etc.
 
